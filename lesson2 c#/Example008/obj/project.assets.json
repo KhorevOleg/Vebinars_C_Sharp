@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Semach\\Desktop\\lesson2 c#\\Example008\\Example008.csproj",
+      "projectUniqueName": "C:\\Users\\Semach\\Desktop\\GB\\Знакомство с языками программирования\\vebinars c#\\lesson2 c#\\Example008\\Example008.csproj",
       "projectName": "Example008",
-      "projectPath": "C:\\Users\\Semach\\Desktop\\lesson2 c#\\Example008\\Example008.csproj",
+      "projectPath": "C:\\Users\\Semach\\Desktop\\GB\\Знакомство с языками программирования\\vebinars c#\\lesson2 c#\\Example008\\Example008.csproj",
       "packagesPath": "C:\\Users\\Semach\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Semach\\Desktop\\lesson2 c#\\Example008\\obj\\",
+      "outputPath": "C:\\Users\\Semach\\Desktop\\GB\\Знакомство с языками программирования\\vebinars c#\\lesson2 c#\\Example008\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Semach\\AppData\\Roaming\\NuGet\\NuGet.Config"
